@@ -1,4 +1,4 @@
-Conversion between xxx units in xx unit types.
+Conversion between 80 units in 11 unit groups.
 ==============================================
 
 - Temperature: C, K, F, Degree of Frost
